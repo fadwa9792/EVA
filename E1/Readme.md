@@ -7,9 +7,7 @@ L’objectif principal est de mettre en pratique les concepts de **programmation
 
 Le projet met en œuvre une organisation structurée du code, ainsi que l’implémentation de plusieurs requêtes permettant l’exploitation des données stockées dans la base.
 
----
-## diagramme de classe :|
-![diag](screenshots/img1.jpg)
+
 
 ## Architecture du projet
 
