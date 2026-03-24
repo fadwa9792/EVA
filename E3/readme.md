@@ -29,10 +29,7 @@ Cette application permet de gérer les citoyens et leurs relations matrimoniales
 - Hommes mariés à 4 femmes
 - Mariages détaillés d’un homme
 ---
-## Diagramme de classe
-![dia](screenshots/img0.jpg)
 
----
 ## Structure de projet
 ![Arch](screenshots/img1.jpg)
 ## Screenshots
