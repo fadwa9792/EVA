@@ -17,10 +17,7 @@ Elle permet d'affecter des tâches aux employés et de suivre leur réalisation 
 - **IntelliJ IDEA**
 
 ---
-## Diagramme de classe
-![Dia](screenshots/img0.jpg)
 
----
 
 ## Structure du projet
 
